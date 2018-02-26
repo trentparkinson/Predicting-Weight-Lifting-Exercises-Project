@@ -2,4 +2,4 @@
 Practical Machine Learning Coursera Project
 
 
-[https://parkinsontrent425.github.io/Predicting-Weight-Lifting-Exercises-Project/](https://parkinsontrent425.github.io/Predicting-Weight-Lifting-Exercises-Project/)
+Click the link to head to the gh-pages. [https://trentparkinson.github.io/Predicting-Weight-Lifting-Exercises-Project/](https://trentparkinson.github.io/Predicting-Weight-Lifting-Exercises-Project/)
